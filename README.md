@@ -1,2 +1,2 @@
 # data_protection_and_Privacy
-anatomizing graph data
+Anonymizing Social Networks using Python  (Network X library)
